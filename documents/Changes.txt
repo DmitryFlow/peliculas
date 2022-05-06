@@ -1,1 +1,3 @@
 Added documentation file ext: txt.
+
+Estoy ya en release 0.2.0 pero vengo a joder aqui la documentation y luego me autoborro despues de este cambio tan largo hp.
